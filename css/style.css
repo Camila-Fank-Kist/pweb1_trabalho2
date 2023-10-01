@@ -1,0 +1,87 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+#navlist {
+  align-self: center;
+  color: #CF4520;
+  padding-right: 6%;
+}
+footer {
+  height: 120px;
+  background-color: #CF4520;
+  margin-top: 19px;
+}
+#navfooter {
+  align-self: center;
+  color: #ffffff;
+  padding-top: 25px;
+}
+#pFooter {
+  color: #baa7a2;
+  padding-top: 7px;
+}
+
+
+
+
+
+#redBackground {
+  background-color: #CF4520;
+}
+#whiteText {
+    color: #ffffff;
+}
+#redBorder {
+    border-color: #CF4520;
+}
+#redColor {
+    color: #CF4520;
+}
+#redButton {
+    background-color: #CF4520;
+    border-color: #CF4520;
+}
+#headerLocalizacao {
+    background-color: #CF4520;
+    color:#ffffff;
+}
+
+
+
+#localizacao {
+  border-color: #CF4520;
+}
+#tituloContato {
+  background-color: #CF4520;
+}
+
+
+#checkSabor {
+  border-color: #CF4520;
+}
+#navlist a:hover {
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+  opacity: 0.8;
+}
+footer a:hover {
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  opacity: 0.8;
+}
+#carouselExampleCaptions p{
+  background-color:#CF4520;
+}
+#carouselExampleCaptions h5{
+  background-color:#ffffff;
+  color: #CF4520;
+}
+#iconeList {
+  width: 11%;
+  margin-right: 15px;
+}
+#linkFooter {
+  width: 20%;
+}
+

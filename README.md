@@ -1,6 +1,6 @@
-# pweb1_aula_php
+# Trabalho Avaliativo 2 - Programação WEB 1
 
-Projeto desenvolvido durante as aulas de programação web 1 com PHP 2023.1
+Trabalho desenvolvido com PHP
 
 ## Comandos básicos Git
 

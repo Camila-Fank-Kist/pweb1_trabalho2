@@ -1,20 +1,9 @@
-# pweb1_trabalho2
+# Programação para Web I - Trabalho 2
+PHP, HTML, CSS, Bootstrap.
 
-Projeto desenvolvido durante as aulas de programação web 1 com PHP 2023.1
+## Sobre o projeto 
+- Projeto desenvolvido para avaliação 2 da disciplina de Programação para Web I — IFSC Chapecó.
+- Semestre 2023/1, módulo 7.
 
-## Comandos básicos Git
-
-**Clonar projeto**  
-`git clone URL_PROJETO`
-
-**Adicionar todos arquivos para serem versionados**  
-`git add .`
-
-**Commitar o arquivo para ser versionados**  
-`git commit -m "Sua mensagem"`
-
-**Enviar as alterações para o repositorio remoto do Git**  
-`git push`
-
-**Atualizar arquivos do projeto local de acordo com o repositorio do Git remoto**  
-`git pull`
+## Descrição: 
+Sistema de uma pizzaria, desenvolvido utilizando PHP, HTML, CSS, Bootstrap.

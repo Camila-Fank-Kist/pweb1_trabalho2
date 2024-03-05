@@ -1,4 +1,4 @@
-# pweb1_aula_php
+# pweb1_trabalho2
 
 Projeto desenvolvido durante as aulas de programação web 1 com PHP 2023.1
 
